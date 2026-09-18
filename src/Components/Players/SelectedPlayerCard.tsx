@@ -1,11 +1,12 @@
-import React, { type Dispatch, type SetStateAction } from "react";
+
+import type { Dispatch, SetStateAction } from "react";
 import type { Iplayer } from "../../types/playerType";
 import { TbTrash } from "react-icons/tb";
 
 interface ISelectedPlayerCardProps {
   player: Iplayer;
   selectedPlayers: Iplayer[];
-  setSelectedPlayers: Dispatch<SetStateAction<Iplayer>>;
+  setSelectedPlayers: Dispatch<SetStateAction<Iplayer[]>>;
   coin: number;
   setCoin: Dispatch<SetStateAction<number>>;
 }

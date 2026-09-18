@@ -1,4 +1,5 @@
-import React, { type Dispatch, type SetStateAction } from "react";
+
+import type { Dispatch, SetStateAction } from "react";
 import type { Iplayer } from "../../types/playerType";
 import PlayerCard from "./PlayerCard";
 

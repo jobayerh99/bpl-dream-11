@@ -1,5 +1,6 @@
-import React, { useState, type Dispatch, type SetStateAction } from "react";
+
 import type { Iplayer } from "../../types/playerType";
+import { useState, type Dispatch, type SetStateAction } from "react";
 import { FaUser, FaStar, FaGlobe, FaTag } from "react-icons/fa";
 import { toast } from "react-toastify";
 
