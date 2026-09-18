@@ -1,0 +1,137 @@
+[
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "battingStyle": "Left-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Tamim Iqbal",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed",
+    "price": 900
+  },
+  {
+    "playerName": "Mushfiqur Rahim",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Mustafizur Rahman",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast-medium",
+    "battingStyle": "Left-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Mashrafe Mortaza",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Mahmudullah Riyad",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm offbreak",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Litton Das",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Soumya Sarkar",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-handed",
+    "price": 650
+  },
+  {
+    "playerName": "Taskin Ahmed",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Mehidy Hasan Miraz",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm offbreak",
+    "battingStyle": "Right-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Afif Hossain",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm offbreak",
+    "battingStyle": "Left-handed",
+    "price": 600
+  },
+  {
+    "playerName": "Najmul Hossain Shanto",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Left-handed",
+    "price": 650
+  },
+  {
+    "playerName": "Rubel Hossain",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast-medium",
+    "battingStyle": "Right-handed",
+    "price": 550
+  },
+  {
+    "playerName": "Anamul Haque",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Nurul Hasan Sohan",
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/440/591-bbl.png",
+    "origin": "Bangladesh",
+    "playerType": "Wicketkeeper-Batsman",
+    "bowlingStyle": "N/A",
+    "battingStyle": "Right-handed",
+    "price": 480
+  }
+]
